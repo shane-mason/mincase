@@ -34,8 +34,8 @@ Varies by printer and settings, but budget several hours for a case of this size
 
 1. Print all case components
 2. Install the Raspberry Pi in its designated section
-3. Mount the mini-PC in its compartment
-4. Install the hard drive enclosure
+3. Mount the [mini-PC](https://amzn.to/3WrCPBq) in its compartment
+4. Install the [hard drive enclosure](https://amzn.to/3WrCPBq)
 5. Route cables through any provided cable management features
 6. Ensure adequate ventilation around all components
 
